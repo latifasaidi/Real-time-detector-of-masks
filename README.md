@@ -1,3 +1,3 @@
 # Real-time-detector-of-masks
-Real-time mask detector based on face detection and mask recognition 
+Real-time mask detector throughout image or video, based on face recognition and mask detection 
 // Different forms, colors and textures of mask can be detected
